@@ -1,0 +1,1 @@
+insert into BOOK (name,author) values ("Head First Java","Kathy Sierra");
